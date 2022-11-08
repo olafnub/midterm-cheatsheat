@@ -12,5 +12,18 @@ body {
     text-decoration: none;
 }
 .name {
-    color: darkseagreen;
+    color: plum;
+    font-weight: bold;
+}
+.ballots-directory {
+    display: flex;
+    gap: 3px;
+}
+.ballots-directory .home, .ballots-directory .fifteen {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 2px;
+}
+.ballots {
+
 }
