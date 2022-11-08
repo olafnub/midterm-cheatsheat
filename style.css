@@ -19,7 +19,7 @@ body {
     display: flex;
     gap: 3px;
 }
-.ballots-directory .home, .ballots-directory .fifteen {
+.ballots-directory .home, .ballots-directory .fifteen, .ballots-directory .five {
     border: 1px solid black;
     border-radius: 15px;
     padding: 2px;
