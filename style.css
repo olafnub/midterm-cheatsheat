@@ -4,7 +4,7 @@ body {
     align-items: center;
 }
 .card {
-    height: 300vh;
+    height: auto;
     width: 100vh;
     border: 1px solid green;
 }
@@ -25,5 +25,6 @@ body {
     padding: 2px;
 }
 .ballots {
-
+    border: 1px solid green;
+    text-align: center;
 }
