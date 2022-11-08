@@ -34,3 +34,7 @@ footer {
     justify-content: center;
     border: 1px solid green;
 }
+.district-3, .state-senator, .state-representative, .governor{
+    border: 1px solid black;
+    /* padding: 2px; */
+}
